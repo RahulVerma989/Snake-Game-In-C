@@ -1,2 +1,2 @@
 # Snake-Game-In-C
-Snake game is c using graphics
+Snake game in c language using graphics.
